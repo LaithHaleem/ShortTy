@@ -1,0 +1,16 @@
+@media (max-width: 768px) { 
+	.navbar-dark .navbar-nav .nav-item:first-child {
+		margin-top: 15px
+	}
+	.navbar-dark .navbar-nav .nav-item {
+		margin-bottom: 7px ;
+	}
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
